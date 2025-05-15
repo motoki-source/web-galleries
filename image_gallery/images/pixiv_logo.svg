@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512.5 512.528"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="pixiv_logo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.59265053"
+     inkscape:cx="361.93336"
+     inkscape:cy="304.56397"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="1432"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path1"
+     style="fill:white;fill-opacity:1"
+     inkscape:label="logoPath"
+     d="M 137.96289,0 C 90.003483,0 72.600278,5.0172192 55.064453,14.392578 37.528646,23.767936 23.742517,37.528585 14.367188,55.064453 4.9918576,72.600318 0,90.004263 0,137.99023 v 236.57422 c 0,47.95953 4.9918576,65.36455 14.367188,82.90039 9.37533,17.53588 23.161458,31.29458 40.697265,40.66993 17.535825,9.4018 34.93903,14.39257 82.898437,14.39257 h 236.57422 c 47.95936,0 65.36345,-4.99077 82.92578,-14.39257 17.53568,-9.37535 31.29469,-23.13405 40.66992,-40.66993 C 507.50823,439.929 512.5,422.52398 512.5,374.56445 V 137.99023 C 512.5,90.004263 507.50823,72.600318 498.13281,55.064453 488.75758,37.528585 474.99857,23.767936 457.46289,14.392578 439.90056,5.0172192 422.49647,0 374.53711,0 Z m 5.57227,116.70312 h 19.35742 c 2.66732,1e-5 5.1773,1.37435 6.60351,3.61915 l 16.08203,24.98242 c 22.50075,-17.87918 50.94372,-28.60157 81.92188,-28.60157 72.81059,0 131.83594,59.02512 131.83594,131.83594 0,72.81081 -59.02535,131.83594 -131.83594,131.83594 -25.22094,0 -48.77856,-7.07701 -68.79688,-19.35742 v 42.99414 c 10e-6,4.35757 -3.53805,7.86914 -7.86914,7.86914 h -47.29882 c -4.35759,0 -7.8711,-3.51157 -7.8711,-7.86914 V 124.59961 c 0,-4.35755 3.51351,-7.89649 7.8711,-7.89649 z M 267.5,179.74219 c -38.00302,0 -68.79688,30.79371 -68.79688,68.79687 0,38.00322 30.79386,68.79688 68.79688,68.79688 38.00313,0 68.79688,-30.79366 68.79688,-68.79688 0,-38.00316 -30.79375,-68.79687 -68.79688,-68.79687 z"
+     sodipodi:nodetypes="sssssscssccssccssscccsssccssssssssss"
+     inkscape:export-filename="W:\websites\art_portfolio\images\pixiv_logo.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>

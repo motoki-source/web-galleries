@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Description of the Site or Page"> <!--Edit "content"-->
+    <meta name="author" content="Your Name"> <!--Edit "content"-->
+    <title>Your Name | Site Name</title> <!--Edit-->
+
+    <!--Favicon-->
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" /> <!--Remember to edit "favicon.ico" with your own-->
+
+    <!--Google Fonts. You can get this code from fonts.google.com. Browse for your favorite fonts and get the code-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Truculenta:opsz,wght@12..72,100..900&display=swap" rel="stylesheet">
+
+    <!--Core CSS-->
+    <link rel="stylesheet" href="css/simple_manga_reader.css">
+
+</head>
+
+<body>
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <div class="nav-brand">YOUR MANGA</div> <!--Edit this-->
+            <a href="index.html">HOME</a>
+            <a href="#manga" class="active">MANGA TITLE</a> <!--Edit this-->
+            <a href="about.html">ABOUT</a>
+        </nav>
+    </header>
+
+    <!-- Manga Carousel -->
+     <section id="manga">
+        <div class="carousel">
+            <div class="slides">
+                <!-- Put your images in images/manga and edit this section -->
+                <img src="images/manga/manga_001.jpeg" alt="image 1">
+                <img src="images/manga/manga_002.jpeg" alt="image 2">
+                <img src="images/manga/manga_003.jpeg" alt="image 3">
+                <img src="images/manga/manga_004.jpeg" alt="image 4">
+                <img src="images/manga/manga_005.jpeg" alt="image 5">
+                <img src="images/manga/manga_006.jpeg" alt="image 6">
+                <img src="images/manga/manga_007.jpeg" alt="image 7">
+            </div>
+            <button class="manganext"><i class="arrow left"></i></button>
+            <button class="mangaprev"><i class="arrow right"></i></button>
+        </div>
+     </section>
+
+    <!--Footer-->
+    <footer>
+        <div class="footer-box">
+            <div class="socials">
+
+                <a href="https://www.youtube.com/@youruser" target="_blank" rel="noopener noreferrer"> <!--Edit-->
+                    <img src="images/youtubeLogo.svg" alt="YouTube Link" />
+                </a>
+
+                <a href="https://www.pixiv.net/en/users/youruser" target="_blank" rel="noopener noreferrer"> <!--Edit-->
+                    <img src="images/pixiv_logo.svg" alt="pixiv Link" />
+                </a>
+
+                <a href="https://www.artstation.com/youuser" target="_blank" rel="noopener noreferrer"> <!--Edit-->
+                    <img src="images/artstation_logo.svg" alt="ArtStation Link" />
+                </a>
+
+                <a href="https://x.com/youruser" target="_blank" rel="noopener noreferrer"> <!--Edit-->
+                    <img src="images/x_logo.svg" alt="X Link" />
+                </a>
+
+                <a href="https://vimeo.com/youruser" target="_blank" rel="noopener noreferrer"> <!--edit-->
+                    <img src="images/vimeo_logo.svg" alt="Vimeo Link" />
+                </a>
+
+            </div>
+            <div class="footer-text">Copyright &copy; 2024 - Your Name</div> <!--Edit-->
+        </div>
+    </footer>
+
+    <!-- Core theme JS-->
+    <script src="js/app.js"></script>
+    <!-- Manga Carousel -->
+     <script src="js/simple_manga_reader.js"></script>
+
+</body>
+
+</html>
