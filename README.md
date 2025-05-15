@@ -14,4 +14,4 @@ A template to make your online portfolio.
 Simple to implement and client-friendly (the most important thing).
 Basic implementation of SimpleLightBox (as an external dependency, though. You can make it local if you care).
 
-[Sample Project](https://www.motokipaulo.com)
+[Sample](https://www.motokipaulo.com)
