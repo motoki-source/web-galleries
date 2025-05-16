@@ -2,7 +2,7 @@
 
 A collection of web galleries running html, js and css. SimpleLightbox implementation and some other utilities.
 The objective is to give a simple way to implement a portfolio through Github>Cloudflare.
-I believe that trusting your stuff to a "big" site comes with ugly risks--just read their TOS).
+I believe that trusting your stuff to a "big" site comes with ugly risks--just read their TOS.
 
 ## Manga Reader
 A simple, yet effective manga reader.
@@ -15,3 +15,7 @@ Simple to implement and client-friendly (the most important thing).
 Basic implementation of SimpleLightBox (as an external dependency, though. You can make it local if you care).
 
 [Sample](https://www.motokipaulo.com)
+
+## One Page Portfolio
+This format is prefered by clients if you dedicate to one discipline (i.e.: illustration only).
+With this format, you keep what's most important in one page, one load.
